@@ -1,0 +1,60 @@
+2018-01-09T07:29:26+00:00 CRITICAL Call to undefined function get_template_uri()
+
+2018-01-09T07:29:26+00:00 CRITICAL Call to undefined function get_template_uri()
+
+2018-01-09T07:29:35+00:00 CRITICAL Call to undefined function get_template_uri()
+
+2018-01-09T07:30:01+00:00 CRITICAL Call to undefined function get_template_uri()
+
+2018-04-03T06:07:06+00:00 CRITICAL Call to undefined function template_directory_uri()
+
+2018-04-24T07:30:15+00:00 CRITICAL Call to undefined function getPostViews()
+
+2018-04-24T07:31:52+00:00 CRITICAL Call to undefined function wp_pagenavi()
+
+2018-04-24T07:32:52+00:00 CRITICAL Call to undefined function getPostViews()
+
+2018-04-24T07:32:57+00:00 CRITICAL Call to undefined function getPostViews()
+
+2018-04-24T07:43:44+00:00 CRITICAL Maximum execution time of 120 seconds exceeded
+
+2018-04-24T07:47:48+00:00 CRITICAL Maximum execution time of 120 seconds exceeded
+
+2018-04-24T07:56:43+00:00 CRITICAL Call to undefined function get_permalinks()
+
+2018-04-24T07:57:32+00:00 CRITICAL Call to undefined function the_permalinks()
+
+2018-04-28T04:46:12+00:00 CRITICAL Call to undefined function get_temolate_directory_uri()
+
+2018-04-28T04:46:32+00:00 CRITICAL Call to undefined function get_temolate_directory_uri()
+
+2018-04-28T07:35:09+00:00 CRITICAL Call to undefined function twentyfifteen_comment_nav()
+
+2018-04-28T07:35:19+00:00 CRITICAL Call to undefined function twentyfifteen_comment_nav()
+
+2018-04-28T07:35:26+00:00 CRITICAL Call to undefined function twentyfifteen_comment_nav()
+
+2018-04-28T07:39:30+00:00 CRITICAL Call to undefined function twentyfifteen_comment_nav()
+
+2018-04-28T07:39:38+00:00 CRITICAL Call to undefined function twentyfifteen_comment_nav()
+
+2018-04-28T07:39:45+00:00 CRITICAL Call to undefined function twentyfifteen_comment_nav()
+
+2018-04-28T07:39:53+00:00 CRITICAL Call to undefined function twentyfifteen_comment_nav()
+
+2018-04-28T07:40:01+00:00 CRITICAL Call to undefined function twentyfifteen_comment_nav()
+
+2018-04-28T07:40:19+00:00 CRITICAL Call to undefined function twentyfifteen_comment_nav()
+
+2018-04-28T07:40:24+00:00 CRITICAL Call to undefined function twentyfifteen_comment_nav()
+
+2018-05-06T04:39:58+00:00 CRITICAL Call to undefined function twentyfifteen_comment_nav()
+
+2018-05-06T04:40:18+00:00 CRITICAL Call to undefined function twentyfifteen_comment_nav()
+
+2018-05-06T04:40:23+00:00 CRITICAL Call to undefined function twentyfifteen_comment_nav()
+
+2018-05-08T16:02:14+04:30 CRITICAL Call to undefined function the_thumbnail()
+
+2018-05-08T16:02:28+04:30 CRITICAL Call to undefined function the_thumbnail()
+
